@@ -1,0 +1,2 @@
+Buffering ukuran 8 byte.
+Buffering dapat meningkatkan kinerja.

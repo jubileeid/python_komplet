@@ -1,0 +1,10 @@
+{
+    "nama": "Alice",
+    "umur": 30,
+    "kota": "New York",
+    "hobi": [
+        "membaca",
+        "berlari",
+        "coding"
+    ]
+}
